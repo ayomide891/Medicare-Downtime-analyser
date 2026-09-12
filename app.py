@@ -30,5 +30,3 @@ if st.button("🚨 ANALYZE & RECOMMEND", type="primary"):
     st.metric("Most Important Machine to Fix", Most_important)
     st.metric("Highest Downtime", f"{Highest} mins")
     st.write(f"**Manager:** {Manager_Name} | **Branch:** {Branch_Office}")
-    st.info("--WE CARE FOR YOUR 
-
